@@ -1,0 +1,8 @@
+{
+   "globals": {
+      "title": "Atlas p5 Harp template",
+      "author": "Pat Author",
+      "positioning": "A quick way to do p5 in Atlas.",
+      "download_link": "https://s3.amazonaws.com/orm-atlas-media/docker-jumpstart.pdf"
+   }
+}
